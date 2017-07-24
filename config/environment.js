@@ -18,6 +18,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      apiKey: "AIzaSyDT-A3EF6cviveyFtZkVbZrDSDciElC14o",
+      authDomain: "vrblog-f5932.firebaseapp.com",
+      databaseURL: "https://vrblog-f5932.firebaseio.com",
+      storageBucket: "vrblog-f5932.appspot.com"
+    },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
