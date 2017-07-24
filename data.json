@@ -1,38 +1,39 @@
 {
   "pillars": [{
-    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+    "image": "https://thumbs.dreamstime.com/t/%E4%BA%BA-%E3%80%81%E5%88%86%E6%95%B0-%E6%A0%85%E6%A0%BC%E5%92%8C%E6%8A%80%E6%9C%AF%E7%BA%BF%E8%83%8C%E6%99%AF%E8%AE%BE%E8%AE%A1%E5%85%B3%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%81%E7%A7%91%E5%AD%A6%E3%80%81%E6%95%99%E8%82%B2%E5%92%8C%E6%8A%80%E6%9C%AF%E5%85%B3-%E4%BA%86%E6%A0%87%E5%BF%97-29862733.jpg",
     "alt": "Generic placeholder image",
-    "heading": "Heading",
-    "description": "Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna."
+    "heading": "Exciting Discoveries",
+    "description": "The definition of virtual reality comes, naturally, from the definitions for both ‘virtual’ and ‘reality’. The definition of ‘virtual’ is near and reality is what we experience as human beings. "
   }, {
-    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+    "image": "http://s3.amazonaws.com/ino-production-assets/mate/assets/plugins/cover_images/attachments/000/005/622/280x180/video-games-russia.jpg?1478873309",
     "alt": "Generic placeholder image",
-    "heading": "Heading",
-    "description": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh."
+    "heading": "Three-dimensional",
+    "description": "Everything that we know about our reality comes by way of our senses. In other words, our entire experience of reality is simply a combination of sensory information and our brains sense-making mechanisms for that information. "
   }, {
-    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+    "image": "https://img.scoop.it/eBvpEkGNtAFhAKbCozbPMjl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
     "alt": "Generic placeholder image",
-    "heading": "Heading",
-    "description": "Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    "heading": "Computer Generated",
+    "description": "If an implementation of virtual reality manages to get the combination of hardware, software and sensory synchronicity just right it achieves something known as a sense of presence. Where the subject really feels like they are present in that environment."
   }],
-"blogs": [{
-  "heading": "First featurette heading. ",
-  "sub_heading": "It'll blow your mind.",
-  "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
-  "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzUwMHg1MDAvYXV0bwpDcmVhdGVkIHdpdGggSG9sZGVyLmpzIDIuNi4wLgpMZWFybiBtb3JlIGF0IGh0dHA6Ly9ob2xkZXJqcy5jb20KKGMpIDIwMTItMjAxNSBJdmFuIE1hbG9waW5za3kgLSBodHRwOi8vaW1za3kuY28KLS0+PGRlZnM+PHN0eWxlIHR5cGU9InRleHQvY3NzIj48IVtDREFUQVsjaG9sZGVyXzE1ZDc1ZTAwNWVjIHRleHQgeyBmaWxsOiNBQUFBQUE7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LWZhbWlseTpBcmlhbCwgSGVsdmV0aWNhLCBPcGVuIFNhbnMsIHNhbnMtc2VyaWYsIG1vbm9zcGFjZTtmb250LXNpemU6MjVwdCB9IF1dPjwvc3R5bGU+PC9kZWZzPjxnIGlkPSJob2xkZXJfMTVkNzVlMDA1ZWMiPjxyZWN0IHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBmaWxsPSIjRUVFRUVFIi8+PGc+PHRleHQgeD0iMTg1LjEyNSIgeT0iMjYxLjEiPjUwMHg1MDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=",
-  "alt": "500x500"
-}, {
-  "heading": "Oh yeah, it's that good. ",
-  "sub_heading": "See for yourself.",
-  "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
-  "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzUwMHg1MDAvYXV0bwpDcmVhdGVkIHdpdGggSG9sZGVyLmpzIDIuNi4wLgpMZWFybiBtb3JlIGF0IGh0dHA6Ly9ob2xkZXJqcy5jb20KKGMpIDIwMTItMjAxNSBJdmFuIE1hbG9waW5za3kgLSBodHRwOi8vaW1za3kuY28KLS0+PGRlZnM+PHN0eWxlIHR5cGU9InRleHQvY3NzIj48IVtDREFUQVsjaG9sZGVyXzE1ZDc1ZTAwNWVjIHRleHQgeyBmaWxsOiNBQUFBQUE7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LWZhbWlseTpBcmlhbCwgSGVsdmV0aWNhLCBPcGVuIFNhbnMsIHNhbnMtc2VyaWYsIG1vbm9zcGFjZTtmb250LXNpemU6MjVwdCB9IF1dPjwvc3R5bGU+PC9kZWZzPjxnIGlkPSJob2xkZXJfMTVkNzVlMDA1ZWMiPjxyZWN0IHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBmaWxsPSIjRUVFRUVFIi8+PGc+PHRleHQgeD0iMTg1LjEyNSIgeT0iMjYxLjEiPjUwMHg1MDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=",
-  "alt": "500x500"
-},
-{
-  "heading": "And lastly, this one.  ",
-  "sub_heading": "Checkmate.",
-  "description": "Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.",
-  "image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzUwMHg1MDAvYXV0bwpDcmVhdGVkIHdpdGggSG9sZGVyLmpzIDIuNi4wLgpMZWFybiBtb3JlIGF0IGh0dHA6Ly9ob2xkZXJqcy5jb20KKGMpIDIwMTItMjAxNSBJdmFuIE1hbG9waW5za3kgLSBodHRwOi8vaW1za3kuY28KLS0+PGRlZnM+PHN0eWxlIHR5cGU9InRleHQvY3NzIj48IVtDREFUQVsjaG9sZGVyXzE1ZDc1ZTAwNWVjIHRleHQgeyBmaWxsOiNBQUFBQUE7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LWZhbWlseTpBcmlhbCwgSGVsdmV0aWNhLCBPcGVuIFNhbnMsIHNhbnMtc2VyaWYsIG1vbm9zcGFjZTtmb250LXNpemU6MjVwdCB9IF1dPjwvc3R5bGU+PC9kZWZzPjxnIGlkPSJob2xkZXJfMTVkNzVlMDA1ZWMiPjxyZWN0IHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBmaWxsPSIjRUVFRUVFIi8+PGc+PHRleHQgeD0iMTg1LjEyNSIgeT0iMjYxLjEiPjUwMHg1MDA8L3RleHQ+PC9nPjwvZz48L3N2Zz4=",
-  "alt": "500x500"
-}]
+
+  "blogs": [{
+    "heading": "How is virtual reality achieved? ",
+    "sub_heading": "It'll blow your mind.",
+    "description": "Although we talk about a few historical early forms of virtual reality elsewhere on the site, today virtual reality is usually implemented using computer technology. There are a range of systems that are used for this purpose, such as headsets, omni-directional treadmills and special gloves. These are used to actually stimulate our senses together in order to create the illusion of reality.",
+    "image": "http://images.farnet.ir/2017/05/virtual-reality-headsets-323242342.jpg",
+    "alt": "500x500"
+  }, {
+    "heading": "Why have virtual reality? ",
+    "sub_heading": "See for yourself.",
+    "description": "This may seems like a lot of effort, and it is! What makes the development of virtual reality worthwhile? The potential entertainment value is clear. Immersive films and video games are good examples. The entertainment industry is after all a multi-billion dollar one and consumers are always keen on novelty. Virtual reality has many other, more serious, applications as well.",
+    "image": "http://www.digitplugin.com/wp-content/uploads/2016/09/virtual-reality-at-ted.jpg",
+    "alt": "500x500"
+  },
+  {
+    "heading": "Features of virtual reality systems. ",
+    "sub_heading": "Checkmate.",
+    "description": "There are many different types of virtual reality systems but they all share the same characteristics such as the ability to allow the person to view three-dimensional images. These images appear life-sized to the person.",
+    "image": "https://static1.squarespace.com/static/55860a84e4b086577bc09057/569066a6bfe873d739369058/58043bcfe58c625ab6e24a23/1476673365088/3-virtual-reality-products-will-dominate-our-living-rooms-by-this-time-next-year.jpg?format=1000w",
+    "alt": "500x500"
+  }]
 }

@@ -8,6 +8,24 @@
   color: white;
 }
 
+.navbar-header {
+  height: 8rem;
+}
+
+.btn.navbar-toggle {
+  margin-top: 2rem;
+}
+
+.glyphicon {
+  font-size: 5rem;
+}
+
+ul.navbar-nav {
+  margin-top: 1.5rem;
+  font-size: 2rem;
+}
+
+
 .jumbotron {
   color: white;
   height: 65rem;
