@@ -1,0 +1,35 @@
+.navbar-default {
+  margin-bottom: 0;
+  background-color: black;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+
+.jumbotron {
+  color: white;
+  height: 65rem;
+  background: url(https://images.unsplash.com/photo-1497235130342-c2cef11900a3?dpr=2&auto=format&fit=crop&w=1500&h=1200&q=80&cs=tinysrgb&crop=);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.marketing {
+  text-align: center;
+}
+
+.three-pillars {
+  margin-top: 7rem;
+  margin-bottom: 7rem;
+}
+
+.featurette-divider {
+  margin-top: 7rem;
+  margin-bottom: 7rem;
+}
+
+footer {
+  margin-bottom: 5rem;
+}
