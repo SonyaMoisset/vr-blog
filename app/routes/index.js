@@ -11,5 +11,13 @@ export default Ember.Route.extend({
   setupController(controller, models) {
     controller.set('pillars', models.pillars);
     controller.set('blogs', models.blogs);
+  },
+
+  actions: {
+    saveBlog(params) {
+      var newBlog = this.store.createRecord('blog', params);
+      newBlog.save();
+      this.transitionTo('index');
+    }
   }
 });

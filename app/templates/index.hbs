@@ -15,12 +15,12 @@
       {{/each}}
     </div>
 
-    {{new-blog}}
+    {{new-blog saveBlog="saveBlog"}}
 
     <hr class="featurette-divider">
 
     {{#each blogs as |blog|}}
-      {{blog-listing blog=blog}}
+      {{blog-detail blog=blog}}
     {{/each}}
 
   </div>
