@@ -6,6 +6,10 @@ export default Ember.Component.extend({
     actions: {
       blogFormShow() {
         this.set('addNewBlog', true)
+      },
+
+      blogFormHide() {
+        this.set('addNewBlog', false)
       }
   }
 });
