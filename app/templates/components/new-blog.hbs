@@ -1,33 +1,46 @@
 {{#if addNewBlog}}
-  <h1>New VRBlog</h1>
+  <h2 class="new">Write a VRBlog</h2>
   <div>
-  <form>
-    <div class="form-group">
-      <label for="heading">Heading</label>
-      {{input value=heading id="heading"}}
-    </div>
+    <form class="form-horizontal">
+      <div class="form-group form-group-lg">
+        <label class="col-sm-2 control-label" for="heading">Heading</label>
+        <div class="col-sm-10">
+          {{input class="form-control" type="text" id="heading" value=heading}}
+        </div>
+      </div>
 
-    <div class="form-group">
-      <label for="sub_heading">Subheading</label>
-      {{input value=sub_heading id="sub_heading"}}
-    </div>
+      <div class="form-group form-group-lg">
+        <label class="col-sm-2 control-label" for="sub_heading">Subheading</label>
+        <div class="col-sm-10">
+          {{input class="form-control" type="text" id="sub_heading" value=sub_heading}}
+        </div>
+      </div>
 
-    <div class="form-group">
-      <label for="description">Description</label>
-      {{input value=description id="description"}}
-    </div>
+      <div class="form-group form-group-lg">
+        <label class="col-sm-2 control-label" for="description">Description</label>
+        <div class="col-sm-10">
+          {{textarea class="form-control" type="text" id="description" value=description}}
+        </div>
+      </div>
 
-    <div class="form-group">
-      <label for="image">Image URL</label>
-      {{input value=image id="image"}}
-    </div>
+      <div class="form-group form-group-lg">
+        <label class="col-sm-2 control-label" for="image">Image URL</label>
+        <div class="col-sm-10">
+          {{input class="form-control" type="text" id="image" value=image}}
+        </div>
+      </div>
 
-    <div class="form-group">
-      <label for="alt">Image Alt</label>
-      {{input value=alt id="alt"}}
-    </div>
-  </form>
+      <div class="form-group form-group-lg">
+        <label class="col-sm-2 control-label" for="alt">Image Alt</label>
+        <div class="col-sm-10">
+          {{input class="form-control" type="text" id="alt" value=alt}}
+        </div>
+      </div>
+    </form>
   </div>
+
 {{else}}
+
   <button type="button" class="btn btn-default btn-lg btn-block new" {{action 'blogFormShow'}}>New VRBlog</button>
+
 {{/if}}
