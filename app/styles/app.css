@@ -54,3 +54,9 @@ ul.navbar-nav {
 footer {
   margin-bottom: 5rem;
 }
+
+.new {
+  width: 50%;
+  margin: 0 auto;
+}
+
