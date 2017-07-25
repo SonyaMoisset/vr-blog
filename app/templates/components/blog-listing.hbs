@@ -1,6 +1,10 @@
 <div class="row featurette">
   <div class="col-md-7">
-    <h2 class="featurette-heading">{{blog.heading}} <span class="text-muted">{{blog.sub_heading}}</span></h2>
+    {{#link-to 'blog' blog.id}}
+      <h2 class="featurette-heading">{{blog.heading}}
+        <span class="text-muted">{{blog.sub_heading}}</span>
+      </h2>
+    {{/link-to}}
     <p class="lead">{{blog.description}}</p>
   </div>
 
