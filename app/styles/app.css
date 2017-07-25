@@ -25,7 +25,6 @@ ul.navbar-nav {
   font-size: 2rem;
 }
 
-
 .jumbotron {
   color: white;
   height: 65rem;
@@ -46,6 +45,10 @@ ul.navbar-nav {
 .featurette-divider {
   margin-top: 7rem;
   margin-bottom: 7rem;
+}
+
+.detail {
+  margin-top: 5rem;
 }
 
 footer {
