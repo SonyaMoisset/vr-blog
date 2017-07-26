@@ -1,15 +1,15 @@
 <div class="row featurette detail">
   <div class="col-md-7">
-    {{#link-to 'blog' blog.id}}
-    <h2 class="featurette-heading">{{blog.heading}}
-      <span class="text-muted">{{blog.sub_heading}}</span>
+    {{#link-to 'blog' post.id}}
+    <h2 class="featurette-heading">{{post.heading}}
+      <span class="text-muted">{{post.sub_heading}}</span>
     </h2>
     {{/link-to}}
-    <p class="lead">{{blog.description}}</p>
+    <p class="lead">{{post.description}}</p>
   </div>
 
   <div class="col-md-5">
-    <img class="featurette-image img-responsive center-block" alt={{blog.alt}} src={{blog.image}}>
+    <img class="featurette-image img-responsive center-block" alt={{post.alt}} src={{post.image}}>
   </div>
 </div>
 

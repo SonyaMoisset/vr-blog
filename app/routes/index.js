@@ -4,18 +4,18 @@ export default Ember.Route.extend({
   model() {
     return Ember.RSVP.hash({
       pillars: this.store.findAll('pillar'),
-      blogs: this.store.findAll('blog')
+      posts: this.store.findAll('post')
     });
   },
 
   setupController(controller, models) {
     controller.set('pillars', models.pillars);
-    controller.set('blogs', models.blogs);
+    controller.set('posts', models.posts);
   },
 
   actions: {
     savePost(params) {
-      var newPost = this.store.createRecord('blog', params);
+      var newPost = this.store.createRecord('post', params);
       newPost.save();
       this.transitionTo('index');
     }
