@@ -42,7 +42,7 @@
     <button type="button" class="btn btn-default btn-lg pull-right" {{action 'editPostHide'}}>
         Cancel
     </button>
-    <button type="button" class="btn btn-success btn-lg pull-right" {{action 'updatePost'}}>
+    <button type="button" class="btn btn-success btn-lg pull-right" {{action 'updatePost' post}}>
         Update
     </button>
   </div>
@@ -52,5 +52,5 @@
 {{else}}
 
 <button type="button" class="btn btn-default btn-lg btn-block new" {{action 'editPostShow'}}>
-    Update VRBlog
-  </button> {{/if}}
+    Update
+</button> {{/if}}

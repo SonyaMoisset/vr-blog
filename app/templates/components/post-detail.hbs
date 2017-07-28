@@ -4,11 +4,20 @@
       <span class="text-muted">{{post.sub_heading}}</span>
     </h2>
     <p class="lead">{{post.description}}</p>
-    {{update-post post=model updatePost="updatePost"}}
+
   </div>
 
   <div class="col-md-5">
     <img class="featurette-image img-responsive center-block" alt={{post.alt}} src={{post.image}}>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    {{update-post post=post updatePost="updatePost"}}
+  </div>
+  <div class="col-md-6">
+    <button type="button" class="btn btn-danger btn-lg btn-block new">Delete</button>
   </div>
 </div>
 
