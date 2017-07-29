@@ -31,6 +31,8 @@ ul.navbar-nav {
   background: url(https://images.unsplash.com/photo-1497235130342-c2cef11900a3?dpr=2&auto=format&fit=crop&w=1500&h=1200&q=80&cs=tinysrgb&crop=);
   background-size: cover;
   background-repeat: no-repeat;
+  border-radius: 0 !important;
+  box-shadow: 3px 3px 5px 0px rgba(235, 226, 235, 1);
 }
 
 .marketing {
@@ -40,6 +42,11 @@ ul.navbar-nav {
 .three-pillars {
   margin-top: 7rem;
   margin-bottom: 7rem;
+}
+
+.img-circle,
+.featurette-image {
+  box-shadow: 3px 3px 5px 0px rgba(235, 226, 235, 1);
 }
 
 .featurette-divider {
@@ -56,13 +63,30 @@ footer {
 }
 
 .new {
-  width: 50%;
+  width: 30%;
+  border-radius: 0;
   margin: 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-weight: bold;
+  font-size: 3rem;
+  border-color: #009688;
+  color: #009688;
+}
+
+.new:hover {
+  color: #fff;
+  background-color: #009688;
+  border-color: transparent;
 }
 
 h2.new {
   text-align: center;
   margin-bottom: 3rem;
+}
+
+h2.featurette-heading {
+  color: #009688;
 }
 
 .button-save {
@@ -72,4 +96,8 @@ h2.new {
 
 .crud {
   margin-top: 5rem;
+}
+
+a:hover {
+  text-decoration: none;
 }
