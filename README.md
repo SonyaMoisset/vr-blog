@@ -1,6 +1,6 @@
 # VRBlog
 
-![vrblog](https://github.com/SonyaMoisset/vr-blog/blob/master/vr.png)
+![vrex](https://github.com/SonyaMoisset/vr-blog/blob/master/vrex.png)
 ![vrpost](https://github.com/SonyaMoisset/vr-blog/blob/master/post.png)
 
 This README outlines the details of collaborating on this Ember application.
