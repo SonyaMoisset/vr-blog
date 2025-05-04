@@ -35,7 +35,7 @@
     "ember-export-application-global": "2.0.1",
     "ember-font-awesome": "3.0.5",
     "ember-load-initializers": "3.0.1",
-    "ember-resolver": "4.3.0",
+    "ember-resolver": "13.1.0",
     "ember-source": "2.18.2",
     "ember-welcome-page": "7.0.2",
     "emberfire": "2.0.10",
