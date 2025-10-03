@@ -2050,7 +2050,7 @@
     broccoli-funnel "^3.0.8"
     semver "^7.3.8"
 
-"@embroider/addon-shim@^1.8.5":
+"@embroider/addon-shim@^1.8.9":
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/@embroider/addon-shim/-/addon-shim-1.10.0.tgz#7c3325e0939674290a9ca4ad7d744ee69313c0a0"
   integrity sha512-gcJuHiXgnrzaU8NyU+2bMbtS6PNOr5v5B8OXBqaBvTCsMpXLvKo8OBOQFCoUN0rPX2J6VaFqrbi/371sMvzZug==
@@ -3179,7 +3179,7 @@ babel-import-util@^2.1.1:
   resolved "https://registry.yarnpkg.com/babel-import-util/-/babel-import-util-2.1.1.tgz#0f4905fe899abfb8cd835dd52f3df1966d1ffbb0"
   integrity sha512-3qBQWRjzP9NreSH/YrOEU1Lj5F60+pWSLP0kIdCWxjFHH7pX2YPHIxQ67el4gnMNfYoDxSDGcT0zpVlZ+gVtQA==
 
-babel-import-util@^3.0.1:
+babel-import-util@^3.0.0, babel-import-util@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/babel-import-util/-/babel-import-util-3.0.1.tgz#62dd0476e855bf57522e1d0027916dc0c0b0fdb2"
   integrity sha512-2copPaWQFUrzooJVIVZA/Oppx/S/KOoZ4Uhr+XWEQDMZ8Rvq/0SNQpbdIyMBJ8IELWt10dewuJw+tX4XjOo7Rg==
@@ -5320,6 +5320,14 @@ decorator-transforms@^1.0.1:
     "@babel/plugin-syntax-decorators" "^7.23.3"
     babel-import-util "^2.0.1"
 
+decorator-transforms@^2.2.2:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/decorator-transforms/-/decorator-transforms-2.3.0.tgz#521d0617627e289dc47c2186787ac80390ee988a"
+  integrity sha512-jo8c1ss9yFPudHuYYcrJ9jpkDZIoi+lOGvt+Uyp9B+dz32i50icRMx9Bfa8hEt7TnX1FyKWKkjV+cUdT/ep2kA==
+  dependencies:
+    "@babel/plugin-syntax-decorators" "^7.23.3"
+    babel-import-util "^3.0.0"
+
 deep-extend@~0.4.0:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.4.2.tgz#48b699c27e334bf89f10892be432f6e4c7d34a7f"
@@ -6279,12 +6287,13 @@ ember-test-helpers@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/ember-test-helpers/-/ember-test-helpers-0.6.3.tgz#f864cdf6f4e75f3f8768d6537785b5ab6e82d907"
 
-ember-welcome-page@7.0.2:
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/ember-welcome-page/-/ember-welcome-page-7.0.2.tgz#c7d9818c454ee5b96b6d86b3e688957b26dce6bb"
-  integrity sha512-TyaKxFIRXhODW5BTbqD/by0Gu8Z9B9AA1ki3Bzzm6fOj2b30Qlprtt+XUG52kS0zVNmxYj/WWoT0TsKiU61VOw==
+ember-welcome-page@8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/ember-welcome-page/-/ember-welcome-page-8.0.3.tgz#c1e598b6efbb1ff240de1f0c487bffcc429939df"
+  integrity sha512-UhGUp0ZWu+Lprj0Ib3LxkstvslTjPtxyU7Uub1A7LN3awwzoFvvJkbeas4aPN7eINvzPe/c8pjnucDRDiSbMlQ==
   dependencies:
-    "@embroider/addon-shim" "^1.8.5"
+    "@embroider/addon-shim" "^1.8.9"
+    decorator-transforms "^2.2.2"
 
 emberfire@2.0.10:
   version "2.0.10"
