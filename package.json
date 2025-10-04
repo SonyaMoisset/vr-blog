@@ -37,7 +37,7 @@
     "ember-load-initializers": "3.0.1",
     "ember-resolver": "13.1.0",
     "ember-source": "2.18.2",
-    "ember-welcome-page": "7.0.2",
+    "ember-welcome-page": "8.0.3",
     "emberfire": "2.0.10",
     "loader.js": "4.7.0",
     "phantomjs-prebuilt": "2.1.16"
