@@ -6502,10 +6502,10 @@ ember-test-helpers@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/ember-test-helpers/-/ember-test-helpers-0.6.3.tgz#f864cdf6f4e75f3f8768d6537785b5ab6e82d907"
 
-ember-welcome-page@8.0.3:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/ember-welcome-page/-/ember-welcome-page-8.0.3.tgz#c1e598b6efbb1ff240de1f0c487bffcc429939df"
-  integrity sha512-UhGUp0ZWu+Lprj0Ib3LxkstvslTjPtxyU7Uub1A7LN3awwzoFvvJkbeas4aPN7eINvzPe/c8pjnucDRDiSbMlQ==
+ember-welcome-page@8.0.5:
+  version "8.0.5"
+  resolved "https://registry.yarnpkg.com/ember-welcome-page/-/ember-welcome-page-8.0.5.tgz#126cfde4276ef07c6f388bb7540dacd95cd1b128"
+  integrity sha512-XegmXI94mt/EVUD3Ya15OuAxB3iCdK16lGS7vCimUIi4fGGooxUTOnlKexTsVLbcJh8u2bsw5JZ0iVht1X5sng==
   dependencies:
     "@embroider/addon-shim" "^1.8.9"
     decorator-transforms "^2.2.2"
