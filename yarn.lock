@@ -6469,9 +6469,10 @@ ember-router-generator@^1.2.3:
   dependencies:
     recast "^0.11.3"
 
-ember-source@2.18.2:
-  version "2.18.2"
-  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-2.18.2.tgz#75d00eef5488bfe504044b025c752ba924eaf87f"
+ember-source@2.18.3:
+  version "2.18.3"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-2.18.3.tgz#84f85f1b8f2800a5fa2b4adc6a85edf7b19d8277"
+  integrity sha512-YR7p5COLTmyWMq+7iZ3o7E5ZxHkCO+LJKXaPKxzimEQVjWaoDhvGCyvR392C1mIQembRFHUCypODtMxTDNOKLg==
   dependencies:
     broccoli-funnel "^2.0.1"
     broccoli-merge-trees "^2.0.0"
