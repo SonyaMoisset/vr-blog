@@ -6437,12 +6437,10 @@ ember-render-helpers@^2.0.0:
     "@embroider/addon-shim" "^1.10.0"
     decorator-transforms "^2.3.0"
 
-ember-resolver@13.1.0:
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/ember-resolver/-/ember-resolver-13.1.0.tgz#8e04034c43fb20b7b92b76f7492f984dd635542e"
-  integrity sha512-t/PjXLCl5tM9EQXGIFoBgHiA41HkLJpfo17Nud5Cy9eyUPGcnsMjWJqQ+O5QHA0E63Sp+zTn4y/RS5Tu2v2ydg==
-  dependencies:
-    ember-cli-babel "^7.26.11"
+ember-resolver@13.2.0:
+  version "13.2.0"
+  resolved "https://registry.yarnpkg.com/ember-resolver/-/ember-resolver-13.2.0.tgz#6405bcdd9f276800af2bb5c542bdb941ce49456e"
+  integrity sha512-A+BffoSKC0ngiczbgaz/IOY66ovZVRRHHIDDi+d7so5i0By8xuB4nXgZZ6Dv3u/3WwoUyixgUvb0xTUO+MtupA==
 
 ember-rfc176-data@^0.2.0:
   version "0.2.6"
