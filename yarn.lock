@@ -1151,14 +1151,6 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.22.5"
 
-"@babel/plugin-transform-class-properties@^7.16.5":
-  version "7.29.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-class-properties/-/plugin-transform-class-properties-7.29.7.tgz#034897b8a21beec163332fac2de235b14409abdf"
-  integrity sha512-GtcpjFvanPfzNQi3eTitsCqtRRmmqzpy/A+yhTR1HaZo1Ly3EA8ZXxlPyHdR8/IuRMYc3E4wdGBewB2QKQjAaA==
-  dependencies:
-    "@babel/helper-create-class-features-plugin" "^7.29.7"
-    "@babel/helper-plugin-utils" "^7.29.7"
-
 "@babel/plugin-transform-class-properties@^7.22.5":
   version "7.22.5"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-class-properties/-/plugin-transform-class-properties-7.22.5.tgz#97a56e31ad8c9dc06a0b3710ce7803d5a48cca77"
@@ -1634,14 +1626,6 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.22.5"
 
-"@babel/plugin-transform-private-methods@^7.16.5":
-  version "7.29.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-methods/-/plugin-transform-private-methods-7.29.7.tgz#cea8bd3ab99533892897a02999d5b752584ad145"
-  integrity sha512-/6Rz4DK1ETDEM/bWHsPHcaEe7ZaT1EqSXjtSP/L0DijOYuaUhiRiOKcwpZ8P7zR4xXEHc2ITdiCgBm9Tpyv9ug==
-  dependencies:
-    "@babel/helper-create-class-features-plugin" "^7.29.7"
-    "@babel/helper-plugin-utils" "^7.29.7"
-
 "@babel/plugin-transform-private-methods@^7.22.5":
   version "7.22.5"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-methods/-/plugin-transform-private-methods-7.22.5.tgz#21c8af791f76674420a147ae62e9935d790f8722"
@@ -1657,15 +1641,6 @@
   dependencies:
     "@babel/helper-create-class-features-plugin" "^7.22.15"
     "@babel/helper-plugin-utils" "^7.22.5"
-
-"@babel/plugin-transform-private-property-in-object@^7.20.5":
-  version "7.29.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-property-in-object/-/plugin-transform-private-property-in-object-7.29.7.tgz#4a2f6be5aba47be7afbdb4cd7903c46edf3a7661"
-  integrity sha512-+BNo06dnrzdNNqCm1X6YUaVv0DKk8Q+JYcoZfOkLhYWNCXzlwTSRq8zGWayT1csjcpNXV9CQTBRRbmTLZac5cA==
-  dependencies:
-    "@babel/helper-annotate-as-pure" "^7.29.7"
-    "@babel/helper-create-class-features-plugin" "^7.29.7"
-    "@babel/helper-plugin-utils" "^7.29.7"
 
 "@babel/plugin-transform-private-property-in-object@^7.22.5":
   version "7.22.5"
@@ -6251,39 +6226,6 @@ ember-cli-babel@^7.10.0, ember-cli-babel@^7.22.1, ember-cli-babel@^7.26.11, embe
     rimraf "^3.0.1"
     semver "^5.5.0"
 
-ember-cli-babel@^8.3.1:
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/ember-cli-babel/-/ember-cli-babel-8.3.1.tgz#a88f767e5aa44389faa6ab436737355c3f7af4c7"
-  integrity sha512-Pxm5JP0jQ6fCBlXuh1BFmhrg2/5YXjhf16JI/n8ReOR6Nl+fEbudMpdO69LlqZRsMmTgdjCRmfSxMh26Wsw/rw==
-  dependencies:
-    "@babel/helper-compilation-targets" "^7.20.7"
-    "@babel/plugin-proposal-decorators" "^7.20.13"
-    "@babel/plugin-transform-class-properties" "^7.16.5"
-    "@babel/plugin-transform-class-static-block" "^7.22.11"
-    "@babel/plugin-transform-modules-amd" "^7.20.11"
-    "@babel/plugin-transform-private-methods" "^7.16.5"
-    "@babel/plugin-transform-private-property-in-object" "^7.20.5"
-    "@babel/plugin-transform-runtime" "^7.13.9"
-    "@babel/plugin-transform-typescript" "^7.20.13"
-    "@babel/preset-env" "^7.20.2"
-    "@babel/runtime" "7.12.18"
-    amd-name-resolver "^1.3.1"
-    babel-plugin-debug-macros "^0.3.4"
-    babel-plugin-ember-data-packages-polyfill "^0.1.2"
-    babel-plugin-ember-modules-api-polyfill "^3.5.0"
-    babel-plugin-module-resolver "^5.0.0"
-    broccoli-babel-transpiler "^8.0.0"
-    broccoli-debug "^0.6.4"
-    broccoli-funnel "^3.0.8"
-    broccoli-source "^3.0.1"
-    calculate-cache-key-for-tree "^2.0.0"
-    clone "^2.1.2"
-    ember-cli-babel-plugin-helpers "^1.1.1"
-    ember-cli-version-checker "^5.1.2"
-    ensure-posix-path "^1.0.2"
-    resolve-package-path "^4.0.3"
-    semver "^7.3.8"
-
 ember-cli-build-config-editor@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/ember-cli-build-config-editor/-/ember-cli-build-config-editor-0.5.1.tgz#0847d07b6cb6c80bc64d47c2b9dbe0d484707395"
@@ -6792,10 +6734,10 @@ ember-router-generator@^2.0.0:
     "@babel/traverse" "^7.4.5"
     recast "^0.18.1"
 
-ember-source@7.2.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-7.2.0.tgz#5bca27cd2ca7514d8177a2f5df16ec44bf3aa5e6"
-  integrity sha512-pWjYFeM76vAgiFvqrBacAsQh94vTIy8SC1X2S3goULJHJ5/tVWAZ2NtaLFx9oZd3/Lk0gGRdsCMla9rQY58vyw==
+ember-source@7.3.0:
+  version "7.3.0"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-7.3.0.tgz#70dd5ba2a0707b870bd0654b96d0ac63e2dc9ec5"
+  integrity sha512-N6KJ02uztRAzMWo5ZjSNW7qDRVRaw5+rBMUtcwYaGOExQmIp1X82243Mk8RC3RfZuugqjnRZ5u2QQeSHXMJSrg==
   dependencies:
     "@babel/core" "^7.24.4"
     "@embroider/addon-shim" "^1.10.2"
@@ -6803,7 +6745,6 @@ ember-source@7.2.0:
     backburner.js "^2.8.0"
     broccoli-file-creator "^2.1.1"
     chalk "^4.0.0"
-    ember-cli-babel "^8.3.1"
     ember-cli-get-component-path-option "^1.0.0"
     ember-cli-normalize-entity-name "^1.0.0"
     ember-cli-path-utils "^1.0.0"
