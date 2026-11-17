@@ -6734,10 +6734,10 @@ ember-router-generator@^2.0.0:
     "@babel/traverse" "^7.4.5"
     recast "^0.18.1"
 
-ember-source@7.3.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-7.3.0.tgz#70dd5ba2a0707b870bd0654b96d0ac63e2dc9ec5"
-  integrity sha512-N6KJ02uztRAzMWo5ZjSNW7qDRVRaw5+rBMUtcwYaGOExQmIp1X82243Mk8RC3RfZuugqjnRZ5u2QQeSHXMJSrg==
+ember-source@7.4.1:
+  version "7.4.1"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-7.4.1.tgz#fd846917ef0da4ec106ff409d89978cbb8d45d3d"
+  integrity sha512-fjRkrRPT9RsPv9pCevSJfRfJsBlJpTapT+p74ShtoPwEgoJG5OclT8/RXP/iu0gVLMvsD7RuTy4RxltlMEP6Ug==
   dependencies:
     "@babel/core" "^7.24.4"
     "@embroider/addon-shim" "^1.10.2"
